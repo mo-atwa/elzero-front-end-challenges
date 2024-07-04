@@ -1,0 +1,26 @@
+html {
+  scroll-behavior: smooth;
+}
+.parent div {
+  background-color: #eee;
+  width: 40%;
+  height: calc(100vh - 30px);
+  margin: auto;
+  margin-top: 10px;
+  font-size: x-large;
+  font-weight: 900;
+}
+.scroll {
+  position: fixed;
+  color: #fff;
+  background-color: red;
+  padding: 10px;
+  border-radius: 10px;
+  right: 10px;
+  bottom: 10px;
+  text-decoration: none;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
