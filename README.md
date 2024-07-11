@@ -6,3 +6,5 @@ Answer the challenges from Elzero web school
 • Card With Transparent Image link   https://mo-atwa.github.io/elzero-front-end-challenges/very-easy/card-with-transparent-image 
 
 • Features Comparison Boxes link     https://mo-atwa.github.io/elzero-front-end-challenges/very-easy/features-conparison-boxes
+
+• Ganing Profile Sections link     https://mo-atwa.github.io/elzero-front-end-challenges/very-easy/gaming-profile-sections
